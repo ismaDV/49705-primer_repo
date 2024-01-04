@@ -7,3 +7,10 @@ h2 {
     color: blue;
     text-align: center;
 }
+
+.logoLufe {
+    width: 180px;
+    cursor: pointer;
+    display: flex;
+    justify-content: left;
+}
